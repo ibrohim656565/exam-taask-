@@ -250,7 +250,7 @@ body {
 
 .box4 div {
     position: absolute;
-    background: orange\;
+    background: orange;
 }
 
 
@@ -344,4 +344,81 @@ body {
     left: 82px;
     top: 88px;
     border-radius: 38px;
+}
+.box5 {
+    width: 160px;
+    height: 180px;
+    position: relative;
+    margin-left: 20px;
+}
+
+.box5 div {
+    position: absolute;
+    background: #30231d;
+    border-radius: 4px;
+}
+
+.d1 {
+    width: 75px;
+    height: 88px;
+    left: 0;
+    top: 0;
+}
+
+.d2 {
+    width: 75px;
+    height: 43px;
+    left: 82px;
+    top: 0;
+}
+
+
+.d3 {
+    width: 34px;
+    height: 43px;
+    left: 82px;
+    top: 50px;
+}
+
+.d4 {
+    width: 34px;
+    height: 43px;
+    left: 123px;
+    top: 50px;
+}
+
+.d5 {
+    width: 34px;
+    height: 43px;
+    left: 0;
+    top: 95px;
+}
+
+
+.d6 {
+    width: 75px;
+    height: 85px;
+    left: 42px;
+    top: 95px;
+}
+
+.d7 {
+    width: 34px;
+    height: 43px;
+    left: 123px;
+    top: 95px;
+}
+
+.d8 {
+    width: 34px;
+    height: 43px;
+    left: 0;
+    top: 142px;
+}
+
+.d9 {
+    width: 34px;
+    height: 43px;
+    left: 123px;
+    top: 142px;
 }
