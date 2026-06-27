@@ -134,3 +134,111 @@ body {
     left: 120px;
     top: 132px;
 }
+
+
+.box3 {
+    width: 160px;
+    height: 170px;
+    position: relative;
+}
+
+.box3 div {
+    position: absolute;
+    background: #5b6030;
+    border-radius: 3px;
+}
+
+
+.b1 {
+    width: 35px;
+    height: 38px;
+    left: 0;
+    top: 0;
+}
+
+.b2 {
+    width: 72px;
+    height: 38px;
+    left: 40px;
+    top: 0;
+}
+
+.b3 {
+    width: 35px;
+    height: 82px;
+    left: 118px;
+    top: 0;
+}
+
+
+.b4 {
+    width: 35px;
+    height: 38px;
+    left: 0;
+    top: 45px;
+}
+
+.b5 {
+    width: 35px;
+    height: 38px;
+    left: 40px;
+    top: 45px;
+}
+
+.b6 {
+    width: 35px;
+    height: 38px;
+    left: 80px;
+    top: 45px;
+}
+
+
+.b7 {
+    width: 35px;
+    height: 38px;
+    left: 0;
+    top: 90px;
+}
+
+.b8 {
+    width: 35px;
+    height: 38px;
+    left: 40px;
+    top: 90px;
+}
+
+.b9 {
+    width: 35px;
+    height: 38px;
+    left: 80px;
+    top: 90px;
+}
+
+.b10 {
+    width: 35px;
+    height: 38px;
+    left: 120px;
+    top: 90px;
+}
+
+
+.b11 {
+    width: 72px;
+    height: 38px;
+    left: 0;
+    top: 135px;
+}
+
+.b12 {
+    width: 35px;
+    height: 38px;
+    left: 78px;
+    top: 135px;
+}
+
+.b13 {
+    width: 35px;
+    height: 38px;
+    left: 120px;
+    top: 135px;
+}
