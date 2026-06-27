@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+    background: white;
+}
+
+.box1 {
+    width: 190px;
+    height: 190px;
+}
+
+.box1 div {
+    width: 42px;
+    height: 42px;
+    background: #ee8585;
+    border-radius: 5px;
+    float: left;
+    margin: 4px;
+}
